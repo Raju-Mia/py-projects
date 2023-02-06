@@ -4,7 +4,7 @@
 <br><br><br><br>
 
 
-# Ourput: 
+# Output: 
 ![Tux, the Linux mascot](output.png)
 ----
 <br>
